@@ -1,0 +1,10 @@
+/*/bin/
+/*/obj/
+/*/Debug/
+/Debug/
+
+/ipch/
+/*.opensdf
+/*.sdf
+/*.suo
+
